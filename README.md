@@ -92,7 +92,7 @@ LocalStorage API
 
 ▶️ Install & Run npm install npm run dev
 
-Project runs at: 👉 http://localhost:5173 🌐
+Project runs at: 👉 http://localhost:5173 🌐Live Demo (Vercel Deployment) https://online-shop-five-lemon.vercel.app/
 
 📸 Screenshot online-shop-screenshot
 
