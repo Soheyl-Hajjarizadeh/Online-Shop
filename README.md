@@ -96,7 +96,9 @@ Project runs at: 👉 http://localhost:5173 🌐Live Demo (Vercel Deployment) ht
 
 📸 Screenshot online-shop-screenshot
 
-(You can add screenshots here later.)
+
+<img width="1148" height="880" alt="OnlineShop" src="https://github.com/user-attachments/assets/a8de806b-554e-4fa9-881e-8f44071265ae" />
+
 
 👤 Developer
 Soheyl Hajjarizadeh
