@@ -50,7 +50,7 @@ Projekt läuft unter: 👉 http://localhost:5173
 
 👤 Entwickler
 
-Siavash Hajjarizadeh
+Soheyl Hajjarizadeh
 
 🇬🇧 English – Project Description 🛍️ Modern Online Shop built with React
 
